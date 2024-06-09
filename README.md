@@ -1,7 +1,7 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ali Karayilan
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Ali Karayilan
 =====================================================================================================================================
 
-Front-end Developer
+Front-End Developer
 -------------------
 
 Founder of Altu Software. I am a 23-year-old entrepreneur fluent in English at a C1 level. Currently, I am pursuing an associate degree in computer programming, steadily progressing towards becoming a software engineer. Between 2020 and 2023, I worked as a freelancer, developing fully responsive WordPress websites from scratch for various local businesses. Now, I am in the process of establishing my own software company, Altu Software. Beyond web development, I am passionate about space, history, and geography. Chess is a hobby of mine, and I maintain an active profile on chess.com. Additionally, until the age of 21, I engaged in amateur weightlifting. My diverse experiences and entrepreneurial spirit drive me to create innovative solutions and continuously expand my skill set in the tech industry.
