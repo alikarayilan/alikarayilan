@@ -11,7 +11,6 @@ Founder of Altu Software. I am a 23-year-old entrepreneur fluent in English at a
 * 🚀  I'm currently working on [my own Software company](http://altuyazilim.com)
 * 🧠  I'm learning Front-end Development, entirely
 * 🤝  I'm open to collaborating on everything, just reach me out
-* ⚡  I own lots of things on internet, but shhh :=)
 
 ### Skills
 
