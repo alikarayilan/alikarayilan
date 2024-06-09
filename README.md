@@ -1,16 +1,17 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Ali Karayilan
 =====================================================================================================================================
 
-Front-End Developer
+Front-end Developer
 -------------------
 
-Founder of Altu Software. I am a 23-year-old entrepreneur fluent in English at a C1 level. Currently, I am pursuing an associate degree in computer programming, steadily progressing towards becoming a software engineer. Between 2020 and 2023, I worked as a freelancer, developing fully responsive WordPress websites from scratch for various local businesses. Now, I am in the process of establishing my own software company, Altu Software. Beyond web development, I am passionate about space, history, and geography. Chess is a hobby of mine, and I maintain an active profile on chess.com. Additionally, until the age of 21, I engaged in amateur weightlifting. My diverse experiences and entrepreneurial spirit drive me to create innovative solutions and continuously expand my skill set in the tech industry.
+Founder of Altu Software. 23-year-old entrepreneur fluent in English at a C1 level. Currently, I am pursuing an associate degree in computer programming, steadily progressing towards becoming a software engineer. Between 2020 and 2023, I worked as a freelancer, developing fully responsive WordPress websites from scratch for various local businesses. Now, I am in the process of establishing my own software company, Altu Software. Beyond web development, I am passionate about space, history, and geography. Chess is a hobby of mine, and I maintain an active profile on chess.com. Additionally, until the age of 21, I engaged in amateur weightlifting. My diverse experiences and entrepreneurial spirit drive me to create innovative solutions and continuously expand my skill set in the tech industry.
 
 * 🌍  I'm based in Istanbul, Turkey
 * ✉️  You can contact me at [alirkarayilan@gmail.com](mailto:alirkarayilan@gmail.com)
 * 🚀  I'm currently working on [my own Software company](http://altuyazilim.com)
 * 🧠  I'm learning Front-end Development, entirely
 * 🤝  I'm open to collaborating on everything, just reach me out
+* ⚡  I own lots of things on internet, but shhh :=)
 
 ### Skills
 
@@ -22,7 +23,7 @@ Founder of Altu Software. I am a 23-year-old entrepreneur fluent in English at a
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/alikarayilan" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/alikarayilan" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="https://www.x.com/alikarayilan" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a></p>
+<p align="left"> <a href="https://www.github.com/alikarayilan" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/alikarayilan" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
 
 ### Badges
 
