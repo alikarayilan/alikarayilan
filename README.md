@@ -11,7 +11,7 @@ The Founder of ALTU Technologies. 23-year-old entrepreneur & software engineer.
 * 🚀  I'm currently working on [my own Software business](http://altutechnologies.com)
 * 🧠  I'm learning Fullstack Web and Mobile Development
 * 🤝  I'm open to collaborating on everything, just reach me out
-* ⚡  I own lots of things on internet, but shhh :=)
+* ⚡  Who does not love chess, history and geography? :)
 
 ### Skills
 
